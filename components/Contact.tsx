@@ -33,11 +33,11 @@ const Contact: React.FC = () => {
                             </li>
                             <li className="flex items-center">
                                 <i className="fas fa-envelope text-primary w-6"></i>
-                                <a href="mailto:info@sahootechnologies.com" className="hover:text-primary">info@sahootechnologies.com</a>
+                                <a href="mailto:info@sahootechnologies.com" className="hover:text-primary">ishmael.otieno@hotmail.com</a>
                             </li>
                             <li className="flex items-center">
                                 <i className="fas fa-phone text-primary w-6"></i>
-                                <a href="tel:+254700123456" className="hover:text-primary">+254 700 123 456</a>
+                                <a href="tel:+254701329141" className="hover:text-primary">+254 701- 329-141</a>
                             </li>
                         </ul>
                     </div>
